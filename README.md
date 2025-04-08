@@ -8,6 +8,10 @@ Current update path: `3.4.7` -> `3.5.22`
 
 The same would apply to `3.5.0` -> `3.5.22`
 
+See dependency dashboard of this project:
+
+👉 https://github.com/ThomasSteinbach/renovate-35196-example/issues/5
+
 
 ## Expected behavior
 
