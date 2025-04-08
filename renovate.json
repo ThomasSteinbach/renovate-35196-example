@@ -1,0 +1,9 @@
+{
+    "extends": [
+        "config:best-practices",
+        ":disableRateLimiting"
+    ],
+    "separateMinorPatch": true,
+    "separateMultipleMinor": true,
+    "separateMultipleMajor": true
+}
