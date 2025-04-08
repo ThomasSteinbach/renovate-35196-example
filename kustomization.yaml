@@ -2,6 +2,6 @@ helmCharts:
   # https://github.com/nextcloud/helm/blob/master/charts/nextcloud/Chart.yaml
   - name: nextcloud
     repo: https://nextcloud.github.io/helm
-    version: 3.4.7
+    version: 3.5.22
     releaseName: nextcloud
     namespace: nextcloud
